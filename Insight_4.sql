@@ -1,5 +1,0 @@
-"Region","Total Order Amount (USD)"
-"Northeast","7744405.360000003"
-"Southeast","6458496.999999992"
-"West","5925122.960000002"
-"Midwest","3013486.5099999974"
