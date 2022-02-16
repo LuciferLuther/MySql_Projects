@@ -1,5 +1,0 @@
-"name","Number of Reps"
-"Midwest","9"
-"Southeast","10"
-"West","10"
-"Northeast","21"
